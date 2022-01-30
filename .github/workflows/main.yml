@@ -6,7 +6,7 @@ on:
 
 jobs:
   build-push-images:
-    name: Zadanie 2
+    name: Zadanie2
     runs-on: ubuntu-latest
 
     steps:
